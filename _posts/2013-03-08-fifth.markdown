@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Week 5"
+date: 2013-03-08 10:31
+comments: true
+categories:
+---
+Wow. This week was pretty crazy. Week 5 shifted us into two distinct parts
+of the day. The first half is lecture and application like the previous four
+weeks. The second half is now being focused on working on web apps that
+we are developing in our groups. One half of the class designed a project
+for the other and that group develops it. And vice versa. This was a lot
+of fun - being able to be creative and code at the same time.
+
+And THEN - Ruby On Ales. I could sum it up with the exiting presentation
+by the organizers who engaged us with a cover of "Call Me Maybe" with lyrics
+that included "Ruby's crazy - so here's a lambda, call it maybe". Nerd love.
+There was so much that happened - presentations (obviously), beer, socializing,
+games, did I say beer? Beer. I was the dork who couldn't hang with the
+9 am brew drinkers but I appreciated everyone's love of code and ale. And
+I will say the afternoons were a little fuzzier than the mornings.
+
+Bend, Or, where the conference was held for it's third year, was beautiful.
+Snowing, freezing, sunny, hot. Truly a well cared for city. The conference
+really affirmed the welcoming feeling of the Ruby community. There were
+moments of me saying dumb things with responses of clarity and support.
+I am on a mission to reflect myself in an honest manner and have been rewarded
+for this direction. I hope to learn from this and respond to others with
+the same grace. My teacher recognized some changes of comprehension after
+the conference - I wonder how much of this was due to the presentations or
+the laid back conversations about coding that helped. Either way I feel really
+good about where I am in the program. I might not get 100% of what is happening
+but the context is starting to become clear. There's a Zen to this and I
+am starting to see it.

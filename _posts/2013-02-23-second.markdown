@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Week Two"
+date: 2013-02-23 15:50
+comments: true
+categories:
+---
+Wow - I can’t believe that it’s only been two weeks at PCS. My brain hurts a bit but I feel alive after being dead for so long. Working the logic parts of my brain has started to change the way I observe, which is interesting. Everything can be updated, reconstructed, and made more efficient. Nerd alert!
+
+We started out this week playing on GitHub, forking each other – wait, what? Basically uploading projects and adding to each other’s – fun! We also got to use Middleman and Bootstrap as frameworks. I read about how a 7 year old built a mobile game app using Bootstrap and now I feel a little less smart. A big part of the week was a full dive into Ruby. We created an HQ9F program – minus the quine. I refuse to wiki it – and I’m sure that making a program print its’ own source code will haunt my dreams for years to come.
+
+One of the highlights of the week was a tour and lunch at Crowd Compass. We met with the founder, senior developer, OPS, and their gracious recruiter. It was a very engaging and inspiring meeting. They have a ping-pong table! Later in the week we talked to the director of Burnside Digital, who kindly allows us our classroom space. I was grateful for the opportunity to have an open conversation about product vs agency tech businesses. Also, listening to someone who has seen the industry transform throughout the ages was eye-opening. All of this just adds to the excitement, leading me to ongoing thoughts of “what is possible?”.
+
+Personally, I am still catching up to getting a handle on what exactly developing looks like and where I want to be within this world. The possibilities really do look endless as I learn to stabilize my creative thoughts with hard code.
+
+{{ page.content | number_of_words }}

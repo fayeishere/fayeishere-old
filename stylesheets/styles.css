@@ -253,3 +253,15 @@ footer {
     color:#444;
   }
 }
+#pdf {
+  height: 22px;
+  width: 22px;
+  padding-left: 10px;
+  position: relative;
+}
+#metropolis {
+  height: 100px;
+  width: 100px;
+  float: right;
+/*  position: relative;*/
+}
