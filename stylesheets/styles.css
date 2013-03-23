@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
+#projects h2, h3 {
+  margin-bottom: 0;
+}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
@@ -276,3 +280,7 @@ footer {
   float:left;
 /*  padding-bottom:50px;*/
 }
+/*#top {
+    border:1px solid #f8f8f8;
+    background: #f8f8f8;
+}*/
