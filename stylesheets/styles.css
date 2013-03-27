@@ -72,7 +72,8 @@ pre {
   background: #f8f8f8;
   border-radius:1px;
   border:1px solid #e5e5e5;
-  overflow-x: auto;
+  word-wrap:break-word;
+/*  overflow-x: auto;*/
 }
 
 table {
