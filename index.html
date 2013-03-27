@@ -3,14 +3,47 @@ layout: layout
 title: Faye Purdum
 ---
 
-<div class="content">
-  <div class="related">
-    <ul>
-      {% for post in site.posts %}
-      <li>
-  <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+        <div id="top">
+        <h2>A Developing Developer</h2>
+        <p>It's with little surprise that the daughter of an artist and a police officer focuses her time creating worlds and interactions that question process, politics and sustainability. <!-- Faye comes to <a href="http://www.portlandcodeschool.com">Portland Code School</a> with a BA in Community Development and a keen interest in learning how to leverage mobile technologies to connect and inspire a world of people. --> When she's not coding for change, you can find her producing an audio drama and animation series.
+        </p>
+        </div>
+
+        <div id="blog">
+        <h2>My Development</h2>
+          <div class="content">
+            <div class="related">
+              <ul>
+                {% for post in site.posts %}
+                <li>
+            <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div id="projects">
+          <h2>In Development</h2>
+          <h3><a href="https://github.com/fayeishere/free_cycle">Freecycle Mapper</a></h3>
+          <p>An app for freecycle users to map out free "offered" items listed on the Freecycle forum</p>
+          <img src="/images/freecycle_screen.png" width="300px"></img>
+          <h3><a href="https://github.com/NeilMakn/kix_rails">Kickstarter Planner</a></h3>
+          <p>An app for Kickstarter users to organize and prepare for their upcoming projects - and beyond.
+          <h3><a href="https://github.com/fayeishere/humanitywar-rails">Humanity War</a></h3>
+          <p>A class project app - users vote for Cards Against Humanity choices to show winning pairs</p>
+          <img src="/images/humanity.png" width="300px"></img>
+        </div>
+
+        <div id="things">
+          <h2>Other Things I Do</h2>
+          <p><a href="http://flintlockinvestigations.tumblr.com">Write & Produce An Audio Drama</a></p>
+          <p>Developing an animation series - Kickstarter details coming soon!</p>
+              <img src="/images/metropolis.jpg" id="metropolis"></img>
+        </div>
+
+          <div>
+            <a class="twitter-timeline" href="https://twitter.com/fayeishere" data-widget-id="314938072418623488">Tweets by @fayeishere</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
