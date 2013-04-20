@@ -9,7 +9,7 @@ April 9th, 2013. Officially we are in week 10 of code school but I wanted
 to backtrack and do a blog post of each week I missed since so much has happened.
 This is hard to do though, as I'm completely overwhelmed and obsessed with
 the NOW. So, what is NOW? Three weeks to go until we officially graduate and I
-am nervous. The excitement of learning new things has morphed into wondering
+am nervous. The excitement of learning new things has morphed into
 "what can be applied"? I can't escape the thoughts of wondering about what
 company I will work for and what my future looks like. But, I will try to
 summarize my last few weeks, nonetheless.
@@ -18,7 +18,7 @@ In week 7 we focused on Rails, which was fantastic. Going from straight Ruby
  using Sinatra with Rack to Rails was a sort of graduating experience in
 itself. Week 8 we looked at Backbone.js and prepared for our job fair. Honestly,
 Backbone took a back seat to preparing/updating my portfolio and resume, which
-needed a serious rejuvenating. The job fair itself was fantastic, terrifying,
+needed a serious rejuvenation. The job fair itself was fantastic, terrifying,
 and satisfying - all in one. We got a little over five minutes to speak with
 participating possible employers - good practice for the future and a great
 chance to meet different companies.

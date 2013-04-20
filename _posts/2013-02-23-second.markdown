@@ -5,7 +5,7 @@ date: 2013-02-23 15:50
 comments: true
 categories:
 ---
-Wow - I can’t believe that it’s only been two weeks at PCS. My brain hurts a bit but I feel alive after being dead for so long. Working the logic parts of my brain has started to change the way I observe, which is interesting. Everything can be updated, reconstructed, and made more efficient. Nerd alert!
+Wow - I can’t believe that it’s only been two weeks at PCS. My brain hurts a bit but I feel alive. Working the logic parts of my brain has started to change the way I observe, which is interesting. Everything can be updated, reconstructed, and made more efficient. Nerd alert!
 
 We started out this week playing on GitHub, forking each other – wait, what? Basically uploading projects and adding to each other’s – fun! We also got to use Middleman and Bootstrap as frameworks. I read about how a 7 year old built a mobile game app using Bootstrap and now I feel a little less smart. A big part of the week was a full dive into Ruby. We created an HQ9F program – minus the quine. I refuse to wiki it – and I’m sure that making a program print its’ own source code will haunt my dreams for years to come.
 

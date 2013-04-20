@@ -5,11 +5,10 @@ date: 2013-02-23 15:18
 comments: true
 categories:
 ---
-It has been a bit too long since my last blog post. I merged blogs with
-Wanderlust and since then have been writing an audio drama, animation, and
-working too much. BUT SUCCESS! I have quit my job and applied to Portland Code
-School. After just finishing the first week, I am exhausted and happy – and can
-feel my brain expanding. Yay learning!
+This is my first blog post since I began Portland Code School. My life before
+was spent working, taking basic CS classes, writing an audio drama, and starting
+an animation project. After just finishing the first week of PCS, I am exhausted
+and happy – and can feel my brain expanding. Yay learning!
 
 So, I am back on the blog bandwagon though my format has changed. I plan
 to mix and match some personal observations of my current life with, hopefully,
