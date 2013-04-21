@@ -10,22 +10,28 @@ title: Faye Purdum
         </div>
 
         <div id="blog">
-        <h2>My Development</h2>
-          <div class="content">
-            <div class="related">
-              <ul>
-                {% for post in site.posts %}
-                <li>
-            <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-                </li>
-                {% endfor %}
-              </ul>
+          <h2>My Development</h2>
+            <div class="content">
+              <div class="related">
+                <ul>
+                  {% for post in site.posts %}
+                  <li>
+              <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
             </div>
+          <div>
+            <iframe src='http://embed.verite.co/timeline/?source=0An9J_FLWwv-hdC1CNVVuTzBFQW9ybHdpVGNZLUNINHc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='95%' height='400' frameborder='0'></iframe>
           </div>
         </div>
 
         <div id="projects">
           <h2>In Development</h2>
+          <h3><a href="https://github.com/fayeishere/weather">Weather</a></h3>
+          <p>A sinatra based app using wunderground's API - I developed this to help me decide if I should drive my scooter</p>
+          <img src="/images/weather.png" width="300px"></img>
           <h3><a href="https://github.com/fayeishere/freecycle_geocoder">Freecycle Mapper</a></h3>
           <p>An app for freecycle users to map out free "offered" items listed on the Freecycle forum</p>
           <img src="/images/freecycle_screen.png" width="300px"></img>
