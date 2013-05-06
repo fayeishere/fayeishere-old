@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 7 thru 9"
+title: "Weeks 7 thru 9"
 date: 2013-04-09 13:52
 comments: true
 categories:

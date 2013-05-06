@@ -19,7 +19,7 @@ h2, h3, h4, h5, h6 {
 
 p { margin-bottom: 0;}
 
-#blog, #things {
+#blog, #things, {
 padding: 8px 15px;
 }
 
@@ -289,6 +289,7 @@ footer {
   height: 100px;
   width: 100px;
   float: right;
+  padding-top: 150px;
 /*  position: relative;*/
 }
 #twitter {
@@ -297,11 +298,13 @@ footer {
   padding-bottom:50px;
 }
 .twitter-timeline {
+  padding-top: 20px;
   width:350px;
   float:left;
 /*  padding-bottom:50px;*/
 }
-/*#top {
-    border:1px solid #f8f8f8;
-    background: #f8f8f8;
-}*/
+#descrip {
+  padding-bottom: 30px;
+/*    border:1px solid #f8f8f8;
+    background: #f8f8f8;*/
+}
